@@ -1,0 +1,12 @@
+[
+    {
+        "email": "turierik@inf.elte.hu",
+        "negint": -67,
+        "tickme": true
+    },
+    {
+        "email": "admin@szerveroldali.hu",
+        "negint": -42,
+        "tickme": true
+    }
+]
