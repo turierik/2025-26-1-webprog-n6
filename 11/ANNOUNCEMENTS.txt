@@ -1,0 +1,22 @@
+ANNOUNCEMENTS
+
+1.) optional (!!!) homework - for 10 extra points
+ - 3x JavaScript - 1pt, 2pts, 2pts
+ - 3x PHP - 1pt, 2pts, 2pts
+ - deadline: Jan 13th (old tasks-will be reopened)
+
+2.) PHP home assignment (mandatory!!!)
+ - released: soon ~ next week or sooner
+ - deadline: Jan 13th (probably)
+
+3.) No class next week, I'll be at a conference
+
+Exam:
+ - Real exam: Dec 19th (16:00-20:00)
+ - Retake: Jan 13th (16:00-20:00)
+ - Allowed: only MDN & php.net + you can bring your own files
+ - NO INTERNET, NO AI, etc.
+
+Task for today:
+ - Old exam: PHP évfolyam ZH (2021-22-1) Canvas
+ - Task 1, 2, 3 only

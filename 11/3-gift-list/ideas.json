@@ -1,0 +1,38 @@
+{
+    "61bb10500a087": {
+        "idea": "shaver",
+        "member_id": "1",
+        "status": "new",
+        "id": "61bb10500a087"
+    },
+    "61bb148f81ecd": {
+        "idea": "tea selection",
+        "status": "ok",
+        "member_id": "1",
+        "id": "61bb148f81ecd"
+    },
+    "61bb190db4bba": {
+        "idea": "audio interface",
+        "status": "new",
+        "member_id": "1",
+        "id": "61bb190db4bba"
+    },
+    "61bb19733193a": {
+        "idea": "new car",
+        "status": "discarded",
+        "member_id": "1",
+        "id": "61bb19733193a"
+    },
+    "61bb1af4d5310": {
+        "idea": "chocolate mug",
+        "status": "new",
+        "member_id": "2",
+        "id": "61bb1af4d5310"
+    },
+    "61bb30516bde6": {
+        "idea": "love and gratitude",
+        "status": "ok",
+        "member_id": "1",
+        "id": "61bb30516bde6"
+    }
+}
